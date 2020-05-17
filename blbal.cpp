@@ -88,3 +88,5 @@ int main()
     cout << BinarySearchTree::contains(n3, 5);
 }
 #endif
+
+/*umiem drzewa :D*/
